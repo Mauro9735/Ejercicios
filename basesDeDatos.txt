@@ -1,1 +1,2 @@
 Bienvenidos a Bases de Datos Camada 4
+Hola_ esta clase nos ayudara a almacenar datos
