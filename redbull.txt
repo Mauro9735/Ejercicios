@@ -1,2 +1,11 @@
 Hola Campeon del mundo
+<<<<<<< HEAD
 Bienvenidos 
+=======
+Red bull esta manejando todo a su antojo
+holalaalala 
+Max verstappen
+Checo perez
+Mas
+Proximo premio monaco
+>>>>>>> cc5c5f661ee10b84795e0f49372582c2037f5e4f
